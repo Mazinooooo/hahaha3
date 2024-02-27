@@ -1,0 +1,122 @@
+body{
+    background-color: rgb(211, 211, 211);
+    margin: 0px;
+}
+
+.aaaaaa{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(107, 102, 101);
+}
+
+a{
+    padding-right: 20px;
+    text-decoration: none;
+    color: azure;
+    font-size: large;
+}
+
+.b{
+    background-color: whitesmoke;
+    padding: 15px 25px;
+    border: unset;
+    border-bottom: 2px solid #e3e3e3;
+    outline: none;
+    font-size: 1rem;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.c{
+    padding: 11px 35px;
+    background: none;
+    border: none;
+    border: 1px;
+    background-color: lavenderblush;
+    color: black;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: medium;
+}
+
+.d{
+    color: blueviolet;
+}
+
+.a{
+    font-size: larger;
+}
+
+.head{
+    font-size: x-large;
+    margin: 30px;
+    margin-left: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: center;
+    display: flex;
+}
+
+.media1{
+    margin-top: 10vh;
+    display: flex;
+    justify-content: space-around;
+    /* align-items: center; */
+}
+
+
+
+.footer1{
+    color: #e3e3e3;
+    margin-top: 55vh;
+    margin-bottom: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    background-color: gray;
+}
+
+.footermain{
+    color: #e3e3e3;
+    margin-top: 35vh;
+    margin-bottom: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    background-color: gray;
+}
+
+.footermap{
+    color: #e3e3e3;
+    /* margin-top: 25vh; */
+    margin-bottom: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    background-color: gray;
+}
+
+.mainh3{
+    margin-left: 4vh;
+}
+
+.examples{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    margin-left: 5vh;
+}
+/* @font-face {
+    font-family: 'MursMemes';
+    src: url('./font/OTF/MursMemes-WideDark.otf') format('opentype'),
+         url('./font/TTF/MursMemes-WideDark.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+} */
