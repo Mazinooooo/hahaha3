@@ -113,10 +113,62 @@ form{
     font-size: medium;
     margin-left: 5vh;
 }
-/* @font-face {
-    font-family: 'MursMemes';
-    src: url('./font/OTF/MursMemes-WideDark.otf') format('opentype'),
-         url('./font/TTF/MursMemes-WideDark.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-} */
+
+.map {
+    width: 97%;
+    border-radius: 10px;
+    margin: 27px;
+}
+
+.photo-container {
+    position: relative;
+}
+
+.photo-container img {
+    display: block;
+}
+
+.photo-container a {
+    bottom: 10px; 
+    left: 10px; 
+    color: transparent; 
+    background-color: rgba(0, 0, 0, 0); 
+    padding: 50px 50px; 
+    text-decoration: none;
+    position: relative;
+    left: 119vh;
+    bottom: 58vh 
+}
+
+
+.gamno1 {
+    color: transparent; 
+    background-color: rgba(0, 0, 0, 0); 
+    padding: 100px 100px; 
+    text-decoration: none;
+    position: relative;
+    left: 29vh;
+    bottom: 43vh;
+}
+
+.gamno2 {
+    color: transparent; 
+    background-color: rgba(0, 0, 0, 0); 
+    padding: 100px 100px; 
+    text-decoration: none;
+    position: relative;
+    left: 95vh;
+    bottom: 43vh;
+}
+
+.durangohellcat {
+    color: transparent; 
+    background-color: rgba(0, 0, 0, 0); 
+    padding: 150px 150px; 
+    text-decoration: none;
+    position: relative;
+    left: 55vh;
+    bottom: 70vh;
+}
+
+
